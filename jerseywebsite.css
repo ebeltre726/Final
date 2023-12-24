@@ -1,0 +1,102 @@
+.jerseyIcon{
+    width: 120px;
+    height: 120px;
+    padding-top: 15px;
+    align-content: center;
+}
+
+.forThose {
+    display: flex;
+    float: right;
+    padding-left: 200px;
+    padding-top: -100px;
+    width: 200px;
+    height: 300px;
+    position: relative;
+}
+
+.topHeader{
+    display: flex;
+    align-content: center;
+    text-align: center;
+    width: 800px;
+    height: 170px;
+}
+
+.jerseySightsTop{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    width: 200px;
+}
+
+.navBar {
+    background-color:lightgoldenrodyellow;
+    overflow: hidden;
+}
+
+.navBar a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.jerseyHomeImage {
+    height: 300px;
+    float: left;
+    padding-right: 20px;
+}
+
+.wrapper {
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.openingText {
+    display: flex;
+    justify-content:baseline;
+    align-items: baseline;
+    padding-left: -300px;
+    font-size: large;
+}
+
+.wrapText {
+    display: flex;
+    justify-content:baseline;
+    align-items: baseline;
+    padding-left: -300px;
+    font-size: large;
+}
+
+.howNav {
+    background-color: lightgoldenrodyellow;
+    width: 310px;
+}
+
+.navBar a.active {
+    background-color: blanchedalmond;
+}
+
+.navBar a:hover {
+    background-color:burlywood;
+}
+
+.center {
+    width: 205px;
+    margin: auto;
+    padding: 10px;
+}
+
+.buttons {
+    height: 50px;
+    width: 100px;
+}
+
+.play22 {
+    height: 250px;
+    float: left;
+    padding-right: 20px;
+}
